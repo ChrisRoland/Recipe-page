@@ -8,7 +8,6 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -18,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](assets/images/Frontend%20Mentor%20|%20Recipe%20page.png) ![](assets/images/PHOTO-2024-11-04-19-24-52.jpg)
+![Desktop](assets/images/Frontend%20Mentor%20|%20Recipe%20page.png) ![Mobile](assets/images/PHOTO-2024-11-04-19-24-52.jpg)
 
 ### Links
 
