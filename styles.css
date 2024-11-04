@@ -1,4 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #4b5563;
+    font-family: "Outfit";
+}
+
+h1, h3 {
+    font-family: "Young serif";
+}
+
+h3, .brown {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+ul.a li::marker {
+    color: #9f1239;
+}
+
+ul.b li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+ol li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
 
 
 .attribution { font-size: 11px; text-align: center; }
