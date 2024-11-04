@@ -17,12 +17,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Desktop](assets/images/Frontend%20Mentor%20|%20Recipe%20page.png) ![Mobile](assets/images/PHOTO-2024-11-04-19-24-52.jpg)
+- Desktop
+![Desktop](assets/images/Frontend%20Mentor%20|%20Recipe%20page.png) 
+
+- Mobile
+![Mobile](assets/images/PHOTO-2024-11-04-19-24-52.jpg)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page---htmlcsstailwindcss-7l3ZA9pfDj)
+- Live Site URL: [Live site](https://chrisroland.github.io/Recipe-page/)
 
 ## My process
 
@@ -32,7 +36,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [React](https://tailwindcss.com/) - Tailwind CSS
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## Author
 
