@@ -21,6 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Desktop](assets/images/Frontend%20Mentor%20|%20Recipe%20page.png) 
 
 - Mobile
+
 ![Mobile](assets/images/PHOTO-2024-11-04-19-24-52.jpg)
 
 ### Links
